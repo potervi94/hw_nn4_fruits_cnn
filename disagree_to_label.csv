@@ -1,0 +1,244 @@
+file,pytorch,tensorflow,agree,human_label
+0014.jpg,Lemon,Onion White,False,Corn
+0114.jpg,Pepper Red,Tomato,False,Tomato
+0123.jpg,Pepper Red,Tomato,False,Tomato
+0129.jpg,Pear,Onion White,False,Pear
+0147.jpg,Apple Granny Smith,Onion White,False,Pear
+0150.jpg,Lemon,Onion White,False,Corn
+0170.jpg,Cactus fruit,Pear,False,Banana
+0178.jpg,Lemon,Onion White,False,Corn
+0192.jpg,Cactus fruit,Pear,False,Banana
+0217.jpg,Pepper Red,Tomato,False,Tomato
+0227.jpg,Lemon,Onion White,False,Corn
+0239.jpg,Apple Granny Smith,Onion White,False,Pear
+0261.jpg,Pepper Red,Tomato,False,Tomato
+0271.jpg,Pepper Red,Tomato,False,Tomato
+0282.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+0333.jpg,Pepper Red,Tomato,False,Tomato
+0337.jpg,Lemon,Onion White,False,Corn
+0338.jpg,Cantaloupe,Onion White,False,Corn
+0342.jpg,Pepper Red,Tomato,False,Tomato
+0347.jpg,Cantaloupe,Onion White,False,Corn
+0386.jpg,Pepper Red,Tomato,False,Tomato
+0470.jpg,Pepper Red,Tomato,False,Tomato
+0481.jpg,Pepper Red,Tomato,False,Tomato
+0493.jpg,Cantaloupe,Onion White,False,Corn
+0496.jpg,Cucumber Ripe,Kiwi,False,Pear
+0524.jpg,Cactus fruit,Pear,False,Banana
+0562.jpg,Cantaloupe,Onion White,False,Corn
+0565.jpg,Pear,Banana,False,Pear
+0578.jpg,Cucumber Ripe,Kiwi,False,Pear
+0590.jpg,Pear,Onion White,False,Pear
+0630.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+0645.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+0711.jpg,Pepper Red,Tomato,False,Tomato
+0808.jpg,Pear,Onion White,False,Pear
+0818.jpg,Lemon,Onion White,False,Corn
+0822.jpg,Onion White,Corn,False,Corn
+0844.jpg,Lemon,Onion White,False,Corn
+0846.jpg,Cantaloupe,Onion White,False,Corn
+0848.jpg,Cactus fruit,Pear,False,Banana
+0884.jpg,Corn,Onion White,False,Corn
+0886.jpg,Cactus fruit,Pear,False,Banana
+0907.jpg,Lemon,Onion White,False,Corn
+0912.jpg,Cactus fruit,Pear,False,Banana
+0915.jpg,Pear,Onion White,False,Pear
+0928.jpg,Pear,Banana,False,Pear
+0947.jpg,Cucumber Ripe,Kiwi,False,Pear
+1060.jpg,Pepper Red,Tomato,False,Tomato
+1071.jpg,Peach,Pomegranate,False,Peach
+1139.jpg,Pepper Red,Tomato,False,Tomato
+1150.jpg,Pepper Red,Tomato,False,Tomato
+1166.jpg,Pear,Kiwi,False,Pear
+1168.jpg,Pepper Red,Tomato,False,Tomato
+1170.jpg,Cantaloupe,Onion White,False,Corn
+1171.jpg,Onion White,Pear,False,Corn
+1180.jpg,Lemon,Onion White,False,Corn
+1264.jpg,Cactus fruit,Pear,False,Banana
+1266.jpg,Lemon,Corn,False,Corn
+1268.jpg,Lemon,Onion White,False,Corn
+1270.jpg,Cactus fruit,Pear,False,Banana
+1271.jpg,Apple Granny Smith,Kiwi,False,Pear
+1272.jpg,Cactus fruit,Pear,False,Banana
+1277.jpg,Pepper Red,Tomato,False,Tomato
+1331.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+1361.jpg,Blueberry,Grape Blue,False,Blueberry
+1371.jpg,Blueberry,Grape Blue,False,Blueberry
+1374.jpg,Pepper Red,Tomato,False,Tomato
+1380.jpg,Lemon,Onion White,False,Corn
+1387.jpg,Apple Granny Smith,Limes,False,Limes
+1471.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+1538.jpg,Lemon,Onion White,False,Corn
+1542.jpg,Lemon,Onion White,False,Corn
+1572.jpg,Pear,Banana,False,Banana
+1585.jpg,Cactus fruit,Pear,False,Pear
+1609.jpg,Apple Granny Smith,Onion White,False,Pear
+1695.jpg,Apple Granny Smith,Onion White,False,Pear
+1732.jpg,Blueberry,Grape Blue,False,Blueberry
+1844.jpg,Pepper Red,Tomato,False,Tomato
+1851.jpg,Pear,Onion White,False,Pear
+1860.jpg,Cactus fruit,Banana,False,Cactus fruit
+1881.jpg,Lemon,Onion White,False,Corn
+1920.jpg,Cactus fruit,Pear,False,Banana
+1943.jpg,Lemon,Onion White,False,Corn
+1966.jpg,Cactus fruit,Pear,False,Banana
+2117.jpg,Apple Granny Smith,Limes,False,Limes
+2126.jpg,Lemon,Corn,False,Corn
+2204.jpg,Pepper Red,Tomato,False,Tomato
+2216.jpg,Pear,Onion White,False,Pear
+2226.jpg,Apple Granny Smith,Onion White,False,Pear
+2302.jpg,Pear,Kiwi,False,Pear
+2308.jpg,Cactus fruit,Pear,False,Banana
+2311.jpg,Cantaloupe,Onion White,False,Corn
+2313.jpg,Cantaloupe,Onion White,False,Corn
+2401.jpg,Cantaloupe,Onion White,False,Corn
+2449.jpg,Blueberry,Grape Blue,False,Blueberry
+2479.jpg,Apple Granny Smith,Kiwi,False,Pear
+2534.jpg,Pepper Red,Tomato,False,Tomato
+2543.jpg,Pepper Red,Tomato,False,Tomato
+2549.jpg,Apple Granny Smith,Onion White,False,Pear
+2598.jpg,Cactus fruit,Pear,False,Banana
+2605.jpg,Banana,Cactus fruit,False,Cactus fruit
+2628.jpg,Cactus fruit,Pear,False,Banana
+2667.jpg,Cactus fruit,Pear,False,Banana
+2670.jpg,Pepper Red,Tomato,False,Tomato
+2672.jpg,Pear,Kiwi,False,Pear
+2677.jpg,Pepper Red,Tomato,False,Tomato
+2686.jpg,Pepper Red,Tomato,False,Tomato
+2688.jpg,Pepper Red,Tomato,False,Tomato
+2723.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+2775.jpg,Blueberry,Grape Blue,False,Blueberry
+2820.jpg,Cactus fruit,Pear,False,Banana
+2821.jpg,Lemon,Onion White,False,Corn
+2830.jpg,Pear,Onion White,False,Pear
+2833.jpg,Blueberry,Grape Blue,False,Blueberry
+2835.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+2876.jpg,Pepper Red,Tomato,False,Tomato
+2899.jpg,Pepper Red,Tomato,False,Tomato
+2908.jpg,Pear,Banana,False,Pear
+2970.jpg,Pear,Onion White,False,Pear
+2976.jpg,Apple Granny Smith,Onion White,False,Pear
+3016.jpg,Cactus fruit,Banana,False,Cactus fruit
+3024.jpg,Pear,Onion White,False,Pear
+3034.jpg,Pepper Red,Tomato,False,Tomato
+3047.jpg,Pepper Red,Tomato,False,Tomato
+3058.jpg,Pepper Red,Tomato,False,Tomato
+3253.jpg,Pepper Red,Tomato,False,Tomato
+3276.jpg,Pear,Onion White,False,Pear
+3281.jpg,Pear,Onion White,False,Pear
+3289.jpg,Cactus fruit,Pear,False,Banana
+3360.jpg,Pear,Banana,False,Pear
+3372.jpg,Cactus fruit,Banana,False,Cactus fruit
+3379.jpg,Pear,Banana,False,Banana
+3382.jpg,Lemon,Onion White,False,Corn
+3411.jpg,Pepper Red,Tomato,False,Tomato
+3433.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+3466.jpg,Pepper Red,Tomato,False,Tomato
+3493.jpg,Blueberry,Grape Blue,False,Blueberry
+3529.jpg,Pepper Red,Tomato,False,Tomato
+3532.jpg,Cactus fruit,Banana,False,Banana
+3572.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+3586.jpg,Pepper Red,Tomato,False,Tomato
+3606.jpg,Pepper Red,Tomato,False,Tomato
+3609.jpg,Pepper Red,Tomato,False,Tomato
+3611.jpg,Apple Granny Smith,Onion White,False,Pear
+3623.jpg,Lemon,Onion White,False,Corn
+3626.jpg,Pear,Onion White,False,Pear
+3640.jpg,Cactus fruit,Pear,False,Banana
+3708.jpg,Cactus fruit,Pear,False,Banana
+3715.jpg,Pear,Banana,False,Banana
+3718.jpg,Lemon,Onion White,False,Corn
+3734.jpg,Cantaloupe,Onion White,False,Corn
+3736.jpg,Pear,Onion White,False,Pear
+3743.jpg,Pear,Onion White,False,Pear
+3793.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+3828.jpg,Pepper Red,Tomato,False,Tomato
+3832.jpg,Lemon,Onion White,False,Corn
+3874.jpg,Cactus fruit,Pear,False,Banana
+3902.jpg,Pear,Onion White,False,Pear
+3948.jpg,Pepper Red,Tomato,False,Tomato
+3959.jpg,Pepper Red,Tomato,False,Tomato
+3962.jpg,Pepper Red,Tomato,False,Tomato
+3965.jpg,Pear,Kiwi,False,Pear
+3968.jpg,Pepper Red,Tomato,False,Tomato
+3975.jpg,Pepper Red,Tomato,False,Tomato
+3987.jpg,Cantaloupe,Onion White,False,Corn
+4005.jpg,Apple Granny Smith,Kiwi,False,Pear
+4024.jpg,Cactus fruit,Pear,False,Banana
+4041.jpg,Cactus fruit,Pear,False,Banana
+4049.jpg,Pear,Onion White,False,Pear
+4063.jpg,Limes,Onion White,False,Pear
+4080.jpg,Lemon,Onion White,False,Corn
+4101.jpg,Pear,Banana,False,Pear
+4150.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+4162.jpg,Pear,Onion White,False,Pear
+4167.jpg,Blueberry,Grape Blue,False,Blueberry
+4193.jpg,Blueberry,Grape Blue,False,Blueberry
+4233.jpg,Lemon,Onion White,False,Corn
+4238.jpg,Pepper Red,Tomato,False,Tomato
+4294.jpg,Pepper Red,Tomato,False,Tomato
+4308.jpg,Pepper Red,Tomato,False,Tomato
+4350.jpg,Pepper Red,Tomato,False,Tomato
+4356.jpg,Pear,Onion White,False,Pear
+4359.jpg,Cactus fruit,Pear,False,Banana
+4390.jpg,Apple Granny Smith,Limes,False,Limes
+4398.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+4431.jpg,Cactus fruit,Pear,False,Banana
+4459.jpg,Cucumber Ripe,Kiwi,False,Pear
+4467.jpg,Pepper Red,Tomato,False,Tomato
+4481.jpg,Pepper Red,Tomato,False,Tomato
+4495.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+4497.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+4498.jpg,Blueberry,Grape Blue,False,Blueberry
+4546.jpg,Cantaloupe,Onion White,False,Corn
+4558.jpg,Pepper Red,Tomato,False,Tomato
+4595.jpg,Pepper Red,Tomato,False,Tomato
+4599.jpg,Lemon,Onion White,False,Corn
+4601.jpg,Pepper Red,Tomato,False,Tomato
+4639.jpg,Apple Braeburn,Peach,False,Apple Braeburn
+4641.jpg,Blueberry,Grape Blue,False,Blueberry
+4664.jpg,Pepper Red,Tomato,False,Tomato
+4692.jpg,Limes,Onion White,False,Pear
+4716.jpg,Banana,Cactus fruit,False,Cactus fruit
+4722.jpg,Cantaloupe,Onion White,False,Corn
+4769.jpg,Cactus fruit,Pear,False,Banana
+4788.jpg,Cactus fruit,Pear,False,Banana
+4801.jpg,Apple Granny Smith,Onion White,False,Pear
+4803.jpg,Pepper Red,Tomato,False,Tomato
+4900.jpg,Cantaloupe,Onion White,False,Corn
+4939.jpg,Pepper Red,Tomato,False,Tomato
+4941.jpg,Lemon,Onion White,False,Corn
+4945.jpg,Onion White,Corn,False,Corn
+4985.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+5009.jpg,Pepper Red,Tomato,False,Tomato
+5035.jpg,Pepper Red,Tomato,False,Tomato
+5043.jpg,Blueberry,Grape Blue,False,Blueberry
+5052.jpg,Pear,Onion White,False,Pear
+5072.jpg,Cactus fruit,Pear,False,Banana
+5076.jpg,Apple Braeburn,Kiwi,False,Apple Braeburn
+5101.jpg,Cantaloupe,Onion White,False,Corn
+5109.jpg,Cactus fruit,Banana,False,Banana
+5122.jpg,Pear,Banana,False,Banana
+5140.jpg,Corn,Onion White,False,Corn
+5143.jpg,Pear,Onion White,False,Pear
+5159.jpg,Pepper Red,Tomato,False,Tomato
+5163.jpg,Pear,Onion White,False,Pear
+5167.jpg,Pepper Red,Tomato,False,Tomato
+5181.jpg,Pepper Red,Tomato,False,Tomato
+5212.jpg,Blueberry,Grape Blue,False,Blueberry
+5259.jpg,Pepper Red,Tomato,False,Tomato
+5269.jpg,Blueberry,Grape Blue,False,Blueberry
+5301.jpg,Onion White,Pear,False,Corn
+5343.jpg,Blueberry,Grape Blue,False,Blueberry
+5365.jpg,Apple Granny Smith,Onion White,False,Pear
+5381.jpg,Pepper Red,Tomato,False,Tomato
+5395.jpg,Pepper Red,Tomato,False,Tomato
+5403.jpg,Apple Granny Smith,Onion White,False,Pear
+5412.jpg,Corn,Onion White,False,Corn
+5490.jpg,Pear,Banana,False,Pear
+5516.jpg,Blueberry,Grape Blue,False,Blueberry
+5541.jpg,Pepper Red,Tomato,False,Tomato
+5548.jpg,Pear,Onion White,False,Pear
+5553.jpg,Pepper Red,Tomato,False,Tomato
+5612.jpg,Cantaloupe,Onion White,False,Corn
+5634.jpg,Blueberry,Grape Blue,False,Blueberry
